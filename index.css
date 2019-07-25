@@ -9,3 +9,11 @@ img {
     max-width: 100%;
     vertical-align: top;
 }
+
+footer {
+    background-color: #1293d4;
+    color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+}
