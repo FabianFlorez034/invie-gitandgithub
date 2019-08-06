@@ -28,4 +28,7 @@ img#responsive {
     img#responsive {
         display: block;
     }
+    img#newversion {
+        display: none;
+    }
 }
