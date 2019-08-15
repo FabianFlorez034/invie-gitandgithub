@@ -1,2 +1,2 @@
 # invie-gitandgithub
-Platzi curso
+Platzi curso by @FabianFlorez
